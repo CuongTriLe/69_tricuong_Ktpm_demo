@@ -1,6 +1,7 @@
 int main()
 {
 	int n;
-	cout <<"Tao branch 69-cuong"<<endl;
+	cout <<"Truy cap branch main"<<endl;
+	cout <<"Them 1 dong tren branch main day len github"<<endl;
 	return 0;
 }
