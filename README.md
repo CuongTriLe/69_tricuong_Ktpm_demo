@@ -1,1 +1,1 @@
-# 69_tricuong_Ktpm_demo test1 with branch
+# 69_tricuong_Ktpm_demo testing with branch
